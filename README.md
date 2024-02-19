@@ -13,7 +13,7 @@ Este layout foi desenvolvido com:
 Layout
 ===
 Layout disponível em: [Figma](https://www.figma.com/file/3RqPfS5PW9whbQNCTTaoqA/%5B2020-09%5D-MZ---Layout-Teste-de-vagas-para-time-de-Devs?node-id=2%3A3560).
-<br>Visualização no GitHub pages: https://k4ndrak.github.io
+<br>Visualização no GitHub pages: https://brunofuryx.github.io/
 
 Suporte
 ===
